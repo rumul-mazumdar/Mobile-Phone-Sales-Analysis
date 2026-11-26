@@ -14,7 +14,7 @@ A data analytics project analysing the **Top 120 Best-Selling Mobile Phones** us
 * **Sales Peaks:** Major volume spikes occurred in **2003 (543M)**, **2013 (448M)**, and **2019 (446M)**.
 
 ## Power BI Dashboard
-![Mobile Phone Sales Dashboard](images/mobile_sales_dashboard.png)
+![Mobile Phone Sales Dashboard](Top-120_MobileSaleDashboard.png)
 
 ## Project Structure
 * `data/` — Dataset (`top_120_mobile_phones.csv`)
