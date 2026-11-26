@@ -27,7 +27,6 @@ A data analytics project analysing the **Top 120 Best-Selling Mobile Phones** us
 1. Clone this repository:
    ```bash
    git clone [https://github.com/rumul-mazumdar/mobile-phone-sales-analysis.git](https://github.com/rumul-mazumdar/mobile-phone-sales-analysis.git)
-
-
-##Author
-**Rumul Hussain Mazumdar**
+## Author
+**Rumul Hussain Mazumdar**  
+GitHub: [@rumul-mazumdar](https://github.com/rumul-mazumdar)
