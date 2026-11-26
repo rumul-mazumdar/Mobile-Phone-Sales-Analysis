@@ -30,4 +30,4 @@ A data analytics project analysing the **Top 120 Best-Selling Mobile Phones** us
 
 
 ##Author
- Rumul Hussain Mazumdar
+**Rumul Hussain Mazumdar**
